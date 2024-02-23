@@ -1,0 +1,14 @@
+D:\windows\MyProject\MyProject\bin\Debug\MyProject.exe.config
+D:\windows\MyProject\MyProject\bin\Debug\MyProject.exe
+D:\windows\MyProject\MyProject\bin\Debug\MyProject.pdb
+D:\windows\MyProject\MyProject\bin\Debug\System.Data.SqlClient.dll
+D:\windows\MyProject\MyProject\bin\Debug\System.Data.SqlClient.xml
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.FHocSinh.resources
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.exe
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.pdb
+D:\windows\MyProject\MyProject\obj\Debug\MyProject.FGiangVien.resources
